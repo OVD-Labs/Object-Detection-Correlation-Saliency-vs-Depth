@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+Pillow
+torch==2.4.0+cu124 # Or any other version of torch with cuda support
+numpy
+pycocotools
+opencv-python
+tqdm
+matplotlib
+scipy
+transformers==4.44.2
+notebook
